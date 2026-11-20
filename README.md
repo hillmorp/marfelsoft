@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **marfelcore** | Подсветка и вентиляторы | 0.2.1 | [marfelcore.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelcore-v0.2.1/marfelcore.exe) |
 | **marfelpad** | Звуковая панель для микрофона | 1.1.0 | [marfelpad.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelpad-v1.1.0/marfelpad.exe) |
-| **marfeldrop** | Сжатие и конвертация файлов | 0.2.0 | [marfeldrop.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.0/marfeldrop.exe) |
+| **marfeldrop** | Сжатие и конвертация файлов | 0.2.1 | [marfeldrop.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.1/marfeldrop.exe) |
 
 Установщика нет: скачай exe, положи в любую папку, куда можно писать без прав администратора (не в `Program Files`), и запусти. Файлы не подписаны, поэтому Windows SmartScreen при первом запуске покажет предупреждение: «Подробнее» → «Выполнить в любом случае».
 
