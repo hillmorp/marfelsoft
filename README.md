@@ -6,7 +6,7 @@
 
 | Программа | Что делает | Версия | Скачать |
 |---|---|---|---|
-| **marfelcore** | Подсветка и вентиляторы | — | ещё не выложена |
+| **marfelcore** | Подсветка и вентиляторы | 0.2.0 | [marfelcore.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelcore-v0.2.0/marfelcore.exe) |
 | **marfelpad** | Звуковая панель для микрофона | — | ещё не выложена |
 | **marfeldrop** | Сжатие и конвертация файлов | 0.2.0 | [marfeldrop.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.0/marfeldrop.exe) |
 
