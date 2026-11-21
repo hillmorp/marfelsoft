@@ -4,11 +4,13 @@
 
 > **Это написано для личного использования.** Программы делались под один конкретный компьютер и его железо. На другом компьютере они могут работать частично или не работать совсем. Гарантий и поддержки нет.
 
-| Программа | Что делает | Версия | Скачать |
-|---|---|---|---|
-| **marfelcore** | Подсветка и вентиляторы | 0.2.3 | [marfelcore.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelcore-v0.2.3/marfelcore.exe) |
-| **marfelpad** | Звуковая панель для микрофона | 1.1.2 | [marfelpad.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelpad-v1.1.2/marfelpad.exe) |
-| **marfeldrop** | Сжатие и конвертация файлов | 0.2.1 | [marfeldrop.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.1/marfeldrop.exe) |
+| Программа | Что делает | Заработает у тебя? | Версия | Скачать |
+|---|---|---|---|---|
+| **marfelcore** | Подсветка и вентиляторы | 🔴 только через разработчика | 0.2.4 | [marfelcore.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelcore-v0.2.4/marfelcore.exe) |
+| **marfelpad** | Звуковая панель для микрофона | 🟢 шанс высокий | 1.1.2 | [marfelpad.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelpad-v1.1.2/marfelpad.exe) |
+| **marfeldrop** | Сжатие и конвертация файлов | 🟢 шанс высокий | 0.2.1 | [marfeldrop.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.1/marfeldrop.exe) |
+
+«Только через разработчика» значит: marfelcore знает лишь железо автора. На другом компьютере он, скорее всего, ничего не найдёт, пока автор не добавит поддержку по файлу диагностики (см. ниже).
 
 Установщика нет: скачай exe, положи в любую папку, куда можно писать без прав администратора (не в `Program Files`), и запусти. Файлы не подписаны, поэтому Windows SmartScreen при первом запуске покажет предупреждение: «Подробнее» → «Выполнить в любом случае».
 
