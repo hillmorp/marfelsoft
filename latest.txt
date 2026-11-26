@@ -1,4 +1,5 @@
 # имя версия sha256 ссылка — отсюда программы узнают о новой версии
 marfelcore 0.2.6 7e45159966f4c168bad53b739e15caafd30b9ec1a9eb16505a955463fa0cf5de https://github.com/hillmorp/marfelsoft/releases/download/marfelcore-v0.2.6/marfelcore.exe
 marfeldrop 0.2.3 63f45550ae0a0b3b7f4e3b044da8b4f035653f0d8eb740eca8ad2fef90a48067 https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.3/marfeldrop.exe
+marfelengine 0.2.0 bdcfeed9842b782840f298f340d46b34e6da9b50349f8a768cfa29153a91322b https://github.com/hillmorp/marfelsoft/releases/download/marfelengine-v0.2.0/marfelengine.exe
 marfelpad 1.1.3 552257e835e3bcbddeb08321a5ea492c286e40e1653f28149e19580b81eb211f https://github.com/hillmorp/marfelsoft/releases/download/marfelpad-v1.1.3/marfelpad.exe
