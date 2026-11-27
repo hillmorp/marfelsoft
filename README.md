@@ -9,7 +9,7 @@
 | **marfelcore** | Подсветка и вентиляторы | 🔴 только через разработчика | 0.2.6 | [marfelcore.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelcore-v0.2.6/marfelcore.exe) |
 | **marfelpad** | Звуковая панель для микрофона | 🟢 шанс высокий | 1.1.3 | [marfelpad.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelpad-v1.1.3/marfelpad.exe) |
 | **marfeldrop** | Сжатие и конвертация файлов | 🟢 шанс высокий | 0.2.3 | [marfeldrop.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfeldrop-v0.2.3/marfeldrop.exe) |
-| **marfelengine** | Живые обои Wallpaper Engine (сцены и видео) без Wallpaper Engine | 🟡 нужен купленный и установленный Wallpaper Engine | 0.2.0 | [marfelengine.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelengine-v0.2.0/marfelengine.exe) |
+| **marfelengine** | Живые обои Wallpaper Engine (сцены и видео) без Wallpaper Engine | 🟢 шанс высокий, Wallpaper Engine ставить не обязательно | 0.2.1 | [marfelengine.exe](https://github.com/hillmorp/marfelsoft/releases/download/marfelengine-v0.2.1/marfelengine.exe) |
 
 «Только через разработчика» значит: marfelcore знает лишь железо автора. На другом компьютере он, скорее всего, ничего не найдёт, пока автор не добавит поддержку по файлу диагностики (см. ниже).
 
@@ -36,7 +36,9 @@
 
 Плеер живых обоев из Wallpaper Engine, когда сам Wallpaper Engine запускать не хочется: ставит сцены и видео-обои под значки рабочего стола, на паузе (полноэкранная игра, развёрнутое окно, батарея) не тратит ни процессор, ни видеокарту, на долгой паузе может отдавать память системе. Сидит в трее, настройки — по щелчку на значок.
 
-- Нужен купленный и установленный Wallpaper Engine из Steam: плеер берёт из его папки шейдеры и материалы, а обои — из его встроенных и из подписок мастерской. Скачивание из мастерской по ссылке идёт через Steam (он должен быть запущен). Сам Wallpaper Engine при этом запускать не нужно.
+- Установленный Wallpaper Engine не обязателен. Если его нет, общие шейдеры и материалы плеер при первом запуске скачивает сам (около 43 МБ); если есть — берёт из его папки.
+- Обои из подписок мастерской плеер находит в библиотеках Steam сам и помечает «Steam». Кнопка «Сохранить из Steam» копирует их в папку программы: они останутся, даже если удалить Wallpaper Engine или отписаться. Обои можно и просто добавить папкой или zip-архивом.
+- Скачивание из мастерской по ссылке идёт через Steam (он должен быть запущен) и пока требует установленный Wallpaper Engine.
 - Не поддерживаются веб-обои и обои-приложения (и GIF): в библиотеке они помечены «Не поддерживается». Некоторые возможности сцен сделаны с оговорками, так что отдельные обои выглядят не совсем как в Wallpaper Engine.
 - Нужна видеокарта с OpenGL 3.3.
 
